@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Sandeep Thapa
+                    Sandeep Thapa Is the best
                 </div>
 
                 <div class="links">
